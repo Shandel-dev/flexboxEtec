@@ -1,6 +1,6 @@
 # Flexbox Atividade 🚀
 
-Atividade de Programação Web sobre layout flex
+Atividade de Programação Web aplicando conceitos de layout FlexBox
 
 ## Autor
 Shandel Villasante Merlo
