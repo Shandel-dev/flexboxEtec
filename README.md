@@ -1,5 +1,3 @@
-# flexboxEtec
- Atividade Flexbox de uma home page
 # Flexbox Atividade 🚀
 
 Atividade de Programação Web sobre layout flex
